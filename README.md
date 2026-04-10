@@ -1,7 +1,3 @@
-Siap, ini sudah dalam format **README.md bersih (tinggal copy–paste langsung)** 👇
-
----
-
 # 🚀 TIRTA-APPS
 
 ### Modern POS System for Printing & UMKM Business
@@ -177,11 +173,10 @@ Software Developer – POS & UMKM Systems
 ## 📞 Support & Custom
 
 Butuh fitur tambahan atau custom?
-Hub : 085335015609
+Hubungi : 085335015609
 
 * 🛠️ Custom fitur sesuai bisnis
 * 🔄 Update & maintenance
-* 📊 Upgrade dashboard analytics
 
 ---
 
