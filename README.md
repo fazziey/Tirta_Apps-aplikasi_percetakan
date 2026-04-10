@@ -22,10 +22,10 @@ Siap, ini sudah dalam format **README.md bersih (tinggal copy–paste langsung)*
 ![Bulanan](assets/laporan_bulanan.png)
 
 ### 📈 Laporan Tahunan
-![Tahunan](assets/laporan_Tahunan.png)
+![Tahunan](assets/laporan_tahunan.png)
 
 ### 📦 Analisis Produk
-![Tahunan](assets/analisi_produk.png)
+![Tahunan](assets/analisis_produk.png)
 
 ### ⚡ Analytics Advanced
 ![Advanced](assets/analytics_advanced.png)
