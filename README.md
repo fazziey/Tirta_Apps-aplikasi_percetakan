@@ -12,16 +12,22 @@ Siap, ini sudah dalam format **README.md bersih (tinggal copy–paste langsung)*
 
 ## ✨ Preview Aplikasi
 
+### 📊 Dashboard
+![Dashboard](assets/dashboard.png)
+
 ### 💳 Transaksi
 ![Transaksi](assets/transaksi.png)
-
-### 📊 Dashboard Owner
-![Dashboard](assets/dashboard.png)
 
 ### 📅 Laporan Bulanan
 ![Bulanan](assets/laporan_bulanan.png)
 
-### 📈 Analytics Advanced
+### 📈 Laporan Tahunan
+![Tahunan](assets/laporan_Tahunan.png)
+
+### 📦 Analisis Produk
+![Tahunan](assets/analisi_produk.png)
+
+### ⚡ Analytics Advanced
 ![Advanced](assets/analytics_advanced.png)
 
 ---
