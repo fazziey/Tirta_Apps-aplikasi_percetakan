@@ -2,6 +2,8 @@
 
 ### Modern POS System for Printing & UMKM Business
 
+> ✨ Fitur unggulan: Sistem dapat mendeteksi isi file secara otomatis (Hitam Putih, Warna, Full Color, dan ukuran kertas) lalu menghitung biaya tanpa input manual.
+
 > Solusi kasir profesional, cepat, dan **offline-first** untuk usaha percetakan, ATK, dan UMKM.
 
 ---
