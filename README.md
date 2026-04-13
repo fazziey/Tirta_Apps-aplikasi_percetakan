@@ -164,8 +164,9 @@ Saat pertama kali membuka aplikasi, akan muncul halaman aktivasi seperti berikut
 
 ## 🔧 Setup Awal
 
-* Atur printer thermal
-* Isi nama usaha
+* Klik Setting
+* Atur printer
+* Lalu Setting Nota
 * Sesuaikan format nota
 
 ---
