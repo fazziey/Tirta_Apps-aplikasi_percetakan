@@ -198,8 +198,6 @@ Dibangun dengan fokus pada:
 
 ---
 
-=======
->>>>>>> c135e3b (Free Trial 15 hari)
 ## 💡 Keunggulan Dibanding POS Lain
 
 | TIRTA-APPS       | POS Online          |
