@@ -1,0 +1,67 @@
+====================================================
+        PANDUAN SHORTCUT TIRTA-APPS
+====================================================
+
+Gunakan tombol keyboard berikut agar pekerjaan
+lebih cepat tanpa perlu klik menu satu per satu.
+
+====================================================
+SHORTCUT UTAMA
+====================================================
+
+CTRL + P
+Cetak semua file/transaksi yang ada di daftar.
+
+F1
+Buka menu Pembayaran.
+Digunakan untuk menyelesaikan transaksi pelanggan.
+
+F2
+Buka menu Bayar Nanti / Tagihan.
+Digunakan jika pelanggan belum membayar sekarang.
+
+F3
+Buka Daftar Tagihan.
+Melihat dan memilih tagihan yang tersimpan.
+
+F4
+Buka menu ATK.
+Menambahkan produk Alat Tulis Kantor ke transaksi.
+
+F5
+Reset biaya tambahan.
+Menghapus biaya tambahan yang sebelumnya ditambahkan.
+
+F6
+Buka Dashboard Laporan.
+Melihat statistik, transaksi, dan laporan penjualan.
+
+F7
+Input Manual.
+Menambahkan item secara manual.
+
+F12
+Buka PDF Converter.
+Mengubah file ke format PDF.
+
+CTRL + R
+Reset semua transaksi.
+Menghapus seluruh daftar transaksi yang sedang aktif.
+
+DELETE
+Hapus baris yang dipilih.
+Klik salah satu item lalu tekan DELETE.
+
+====================================================
+TIPS PENGGUNAAN
+====================================================
+
+- Klik item terlebih dahulu sebelum menekan DELETE.
+- Gunakan CTRL + P agar proses cetak lebih cepat.
+- Gunakan F2 jika pelanggan ingin bayar nanti.
+- Gunakan F6 untuk melihat laporan harian.
+
+====================================================
+TIRTA-APPS
+Aplikasi Kasir, Printing, dan ATK
+====================================================
