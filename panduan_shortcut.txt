@@ -10,7 +10,7 @@ SHORTCUT UTAMA
 ====================================================
 
 CTRL + P
-Cetak semua file/transaksi yang ada di daftar.
+Cetak semua file yang ada di daftar.
 
 F1
 Buka menu Pembayaran.
