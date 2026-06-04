@@ -41,7 +41,7 @@ Input Manual.
 Menambahkan item secara manual.
 
 F12
-Buka PDF Converter.
+Buka PDF Converter Pro.
 Mengubah file ke format PDF.
 
 CTRL + R
@@ -51,6 +51,16 @@ Menghapus seluruh daftar transaksi yang sedang aktif.
 DELETE
 Hapus baris yang dipilih.
 Klik salah satu item lalu tekan DELETE.
+
+====================================================
+SHORTCUT BAYAR NANTI 
+====================================================
+ENTER
+Simpan & Cetak
+
+SHIFT + ENTER
+Simpan Tagihan
+Menyimpan tagihan tanpa mencetak nota
 
 ====================================================
 TIPS PENGGUNAAN
