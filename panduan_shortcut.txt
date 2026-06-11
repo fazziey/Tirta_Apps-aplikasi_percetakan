@@ -52,6 +52,15 @@ DELETE
 Hapus baris yang dipilih.
 Klik salah satu item lalu tekan DELETE.
 
+CTRL + K
+Open Folder
+
+CTRL + O
+Open File
+
+CTRL + T
+Hitung harga
+
 ====================================================
 SHORTCUT BAYAR NANTI 
 ====================================================
